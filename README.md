@@ -1,16 +1,16 @@
-# <div align="center">🌐 ENVEXX</div>
-
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Web3+Architect;Building+Scalable+%26+Secure+Applications;Next.js+•+React+•+Blockchain+Expert;Crafting+Digital+Solutions+That+Matter)](https://git.io/typing-svg)
-
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com/svg?font=JetBrains+Mono&weight=700&size=45&color=4A90E2&center=true&vCenter=true&width=500&lines=ENVEXX" alt="ENVEXX">
+</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2500&pause=800&color=4A90E2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web3+Architect;Backend+Specialist" alt="Roles">
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=3000&pause=1000&color=6B7280&center=true&vCenter=true&width=650&lines=Building+scalable+applications+with+modern+technologies;Passionate+about+Web3+platforms+and+blockchain+innovation;Crafting+digital+solutions+that+make+a+difference" alt="Description">
+</p>
 <br>
-
-<img src="https://readme-typing-svg.herokuapp.com/svg?font=Inter&weight=400&size=18&color=6B7280&center=true&vCenter=true&width=600&lines=Passionate+about+robust+applications+%26+Web3+platforms">
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=&fontSize=0&animation=twinkling">
 </div>
-
----
 
 <div align="center">
 
