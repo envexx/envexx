@@ -1,16 +1,12 @@
-# 🌌 ENVEXX
+# <div align="center">🌐 ENVEXX</div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+Web3+Architect;Building+Robust+%26+Scalable+Applications;Next.js+%7C+React+%7C+Blockchain+Expert;Transforming+Ideas+Into+Digital+Reality)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Web3+Architect;Building+Scalable+%26+Secure+Applications;Next.js+•+React+•+Blockchain+Expert;Crafting+Digital+Solutions+That+Matter)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<br>
 
-### 🚀 **Full Stack Developer | Web3 Architect | Back-end Specialist**
-
-*Passionate about building robust applications & pioneering Web3 platforms*
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
+<img src="https://readme-typing-svg.herokuapp.com/svg?font=Inter&weight=400&size=18&color=6B7280&center=true&vCenter=true&width=600&lines=Passionate+about+robust+applications+%26+Web3+platforms">
 
 </div>
 
@@ -18,69 +14,134 @@
 
 <div align="center">
 
-## 🎯 **Tech Arsenal**
+## 💼 **Professional Overview**
 
-### 💻 **Frontend Mastery**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+</div>
 
-### ⚙️ **Backend Excellence**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-### 📱 **Mobile Development**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+### 🎯 **Current Focus**
+- 🔹 **DeFi Platform Development**
+- 🔹 **Smart Contract Architecture** 
+- 🔹 **NFT Marketplace Solutions**
+- 🔹 **Scalable Web Applications**
+- 🔹 **Mobile-First Development**
 
-### ⛓️ **Web3 & Blockchain**
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-e6e6fa?style=for-the-badge&logo=solidity&logoColor=black)
-![Web3](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+</td>
+<td width="50%" valign="top">
+
+### 🏆 **Expertise Areas**
+- 🔸 **Frontend**: Next.js, React.js, TypeScript
+- 🔸 **Backend**: Node.js, Express.js, APIs
+- 🔸 **Mobile**: Flutter, Cross-platform
+- 🔸 **Web3**: Ethereum, Solidity, DApps
+- 🔸 **Database**: MongoDB, PostgreSQL
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🛠️ **Technology Stack**
+
+### **Frontend Development**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### **Backend Development**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-4A90E2?style=flat-square&logo=api&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+### **Database & Storage**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### **Mobile Development**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+### **Web3 & Blockchain**
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat-square&logo=metamask&logoColor=white)
+
+### **Tools & DevOps**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
-
 <div align="center">
 
-## 🎭 **Developer Profile**
+## 📋 **Professional Profile**
 
 </div>
 
 ```typescript
-interface Developer {
+interface DeveloperProfile {
   name: string;
-  role: string[];
-  expertise: string[];
-  currentFocus: string[];
-  architecture: string[];
-  databases: string[];
-  motto: string;
+  title: string;
+  specialization: string[];
+  currentProjects: string[];
+  techStack: {
+    frontend: string[];
+    backend: string[];
+    mobile: string[];
+    web3: string[];
+    database: string[];
+  };
+  philosophy: string;
+  availability: string;
 }
 
-const ENVEXX: Developer = {
+const ENVEXX: DeveloperProfile = {
   name: "ENVEXX",
-  role: ["Full Stack Developer", "Web3 Architect", "Backend Specialist"],
-  expertise: [
-    "Next.js", "React.js", "Node.js", 
-    "Express.js", "Flutter", "TypeScript"
-  ],
-  currentFocus: [
+  title: "Full Stack Developer & Web3 Architect",
+  
+  specialization: [
     "🔥 DeFi Platform Development",
-    "🎨 NFT Marketplace Creation", 
-    "🏛️ DAO Architecture",
+    "🎨 NFT Marketplace Creation",
+    "🏛️ DAO & Governance Systems", 
     "⚡ Smart Contract Development",
-    "🔐 Web3 Security Implementation"
+    "📱 Cross-platform Mobile Apps"
   ],
-  architecture: ["Microservices", "RESTful APIs", "GraphQL", "Event-Driven"],
-  databases: ["MongoDB", "PostgreSQL", "Redis", "IPFS"],
-  motto: "Building the decentralized future, one smart contract at a time 🚀"
+  
+  currentProjects: [
+    "Next.js E-commerce Platform",
+    "DeFi Staking Protocol",
+    "Flutter Crypto Wallet",
+    "NFT Trading Marketplace"
+  ],
+  
+  techStack: {
+    frontend: ["Next.js", "React.js", "TypeScript", "Tailwind CSS"],
+    backend: ["Node.js", "Express.js", "REST APIs", "GraphQL"],
+    mobile: ["Flutter", "Dart", "Cross-platform Development"],
+    web3: ["Ethereum", "Solidity", "Web3.js", "Smart Contracts"],
+    database: ["MongoDB", "PostgreSQL", "Redis"]
+  },
+  
+  philosophy: "Clean code, scalable architecture, user-centric design",
+  availability: "Open for collaboration & consulting"
 };
 ```
 
@@ -88,17 +149,43 @@ const ENVEXX: Developer = {
 
 <div align="center">
 
-## 📊 **Performance Analytics**
+## 📊 **GitHub Analytics**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ENVEXX&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" />
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ENVEXX&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4A90E2&icon_color=4A90E2&text_color=c9d1d9"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ENVEXX&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2f80ed&icon_color=2f80ed&text_color=333"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ENVEXX&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4A90E2&icon_color=4A90E2&text_color=c9d1d9" />
+</picture>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=ENVEXX&theme=dark&hide_border=true&background=0d1117&stroke=4A90E2&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=ENVEXX&theme=default&hide_border=true&background=ffffff&stroke=2f80ed&ring=2f80ed&fire=2f80ed&currStreakLabel=2f80ed"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ENVEXX&theme=dark&hide_border=true&background=0d1117&stroke=4A90E2&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2" />
+</picture>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ENVEXX&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENVEXX&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&layout=compact" height="180"/>
-
-</div>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ENVEXX&theme=dark&hide_border=true&bg_color=0d1117&title_color=4A90E2&text_color=c9d1d9&layout=compact"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ENVEXX&theme=default&hide_border=true&bg_color=ffffff&title_color=2f80ed&text_color=333&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENVEXX&theme=dark&hide_border=true&bg_color=0d1117&title_color=4A90E2&text_color=c9d1d9&layout=compact" />
+</picture>
 
 </div>
 
@@ -106,53 +193,63 @@ const ENVEXX: Developer = {
 
 <div align="center">
 
-## 🌟 **Current Projects & Focus**
+## 🚀 **Featured Projects**
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<table>
+<tr>
+<td width="50%">
 
-### 🔥 **Web3 Innovations**
-- **DeFi Trading Platform** - Next.js + Solidity + Web3.js
-- **NFT Marketplace** - React + IPFS + Smart Contracts  
-- **DAO Governance Tool** - Full-stack Web3 application
-- **Cross-chain Bridge** - Multi-blockchain integration
+### 🔥 **Web3 Projects**
+- **DeFi Staking Platform**  
+  `Next.js` `Solidity` `Web3.js`
+  
+- **NFT Marketplace**  
+  `React` `IPFS` `Smart Contracts`
+  
+- **DAO Governance Tool**  
+  `TypeScript` `Ethereum` `Web3`
 
-### 💡 **Full Stack Solutions**
-- **E-commerce Platform** - Next.js + Node.js + MongoDB
-- **Real-time Chat App** - Socket.io + React + Express
-- **Flutter Mobile App** - Cross-platform development
-- **API Gateway** - Microservices architecture
+</td>
+<td width="50%">
+
+### 💻 **Full Stack Projects**
+- **E-commerce Platform**  
+  `Next.js` `Node.js` `MongoDB`
+  
+- **Real-time Chat App**  
+  `Socket.io` `React` `Express`
+  
+- **Flutter Mobile App**  
+  `Flutter` `Dart` `Firebase`
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
-
 <div align="center">
 
-## 🤝 **Let's Connect & Build Together**
+## 🤝 **Let's Connect**
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=0D1117)](https://github.com/ENVEXX)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/envexx)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ENVEXX)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/envexx)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/envexx)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://envexx.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://envexx.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@envexx.dev)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+<br><br>
 
-### 💌 **Ready to innovate?**
-*Open for collaborations, freelance projects, and Web3 consultations*
+**💡 Available for freelance projects, collaborations, and Web3 consultations**
 
-<img src="https://komarev.com/ghpvc/?username=ENVEXX&style=for-the-badge&color=00F5FF&labelColor=0D1117" />
+<img src="https://komarev.com/ghpvc/?username=ENVEXX&style=for-the-badge&color=4A90E2&labelColor=1a1a1a" />
 
-</div>
+<br><br>
 
----
+*"Building the future of web, one line of code at a time"* 
 
-<div align="center">
-
-*"In code we trust, in blockchain we build the future"* 🌟
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+**⭐ Don't forget to star repositories you find interesting!**
 
 </div>
