@@ -12,11 +12,11 @@
 
 <div align="center">
 
-## 🚀 Full Stack Developer | Back-end Specialist
+## 🚀 Full Stack Developer | Web3 Architect | Back-end Specialist
 
-*Building the future, one line of code at a time*
+*Building the future of decentralized web, one smart contract at a time*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Passionate+about+robust+applications;Crafting+scalable+solutions;Transforming+ideas+into+reality)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Passionate+about+robust+applications;Web3+%26+Blockchain+Enthusiast;Crafting+scalable+DeFi+solutions;Building+the+decentralized+future)](https://git.io/typing-svg)
 
 </div>
 
@@ -30,25 +30,62 @@
 
 <table>
   <tr>
-    <td align="center" width="150">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
-      <br><b>Node.js</b>
-      <br><sub>Runtime Engine</sub>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50"/>
+      <br><b>Next.js</b>
+      <br><sub>React Framework</sub>
     </td>
-    <td align="center" width="150">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60"/>
-      <br><b>Express.js</b>
-      <br><sub>Web Framework</sub>
-    </td>
-    <td align="center" width="150">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
       <br><b>React.js</b>
       <br><sub>UI Library</sub>
     </td>
-    <td align="center" width="150">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60" height="60"/>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
+      <br><b>Node.js</b>
+      <br><sub>Runtime Engine</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50"/>
+      <br><b>Express.js</b>
+      <br><sub>Web Framework</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50"/>
       <br><b>Flutter</b>
       <br><sub>Cross-Platform</sub>
+    </td>
+  </tr>
+</table>
+
+### ⛓️ **Web3 & Blockchain Mastery**
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/MetaMask/brand-resources/master/SVG/metamask-fox.svg" width="50" height="50"/>
+      <br><b>MetaMask</b>
+      <br><sub>Wallet Integration</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://seeklogo.com/images/E/ethereum-logo-EC6CDBA45B-seeklogo.com.png" width="50" height="50"/>
+      <br><b>Ethereum</b>
+      <br><sub>Smart Contracts</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://docs.soliditylang.org/en/v0.8.17/_static/logo.svg" width="50" height="50"/>
+      <br><b>Solidity</b>
+      <br><sub>Contract Language</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://seeklogo.com/images/W/web3js-logo-62DEE79B50-seeklogo.com.png" width="50" height="50"/>
+      <br><b>Web3.js</b>
+      <br><sub>Blockchain Library</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://docs.ethers.org/v5/static/logo.svg" width="50" height="50"/>
+      <br><b>Ethers.js</b>
+      <br><sub>Ethereum Library</sub>
     </td>
   </tr>
 </table>
@@ -61,12 +98,14 @@
 
 ```javascript
 const ENVEXX = {
-  mission: "Building robust and scalable applications",
-  expertise: ["Node.js", "Express.js", "React.js", "Flutter Dart"],
-  focus: "Back-end Architecture & Full Stack Solutions",
-  philosophy: "Clean Code | Scalable Architecture | User-Centric Design",
-  currently: "Exploring cutting-edge technologies",
-  passion: "Transforming complex problems into elegant solutions"
+  mission: "Building robust Web3 platforms and scalable applications",
+  expertise: ["Next.js", "React.js", "Node.js", "Express.js", "Flutter Dart"],
+  specialization: "Blockchain Development & DeFi Platforms",
+  web3Skills: ["Smart Contracts", "DApps", "DeFi", "NFT Marketplaces", "DAO"],
+  focus: "Full Stack Architecture & Decentralized Solutions",
+  philosophy: "Clean Code | Scalable DApps | User-Centric Web3 UX",
+  currently: "Building the future of decentralized finance",
+  passion: "Bridging traditional web with blockchain innovation"
 };
 ```
 
@@ -107,11 +146,21 @@ const ENVEXX = {
 ┌─────────────────────────────────────────────────────────────┐
 │  🟢 SYSTEMS ONLINE                                         │
 │  ⚡ Performance: Optimized                                 │
-│  🔒 Security: Enhanced                                     │
+│  🔒 Security: Multi-Sig Enhanced                          │
+│  ⛓️  Web3: Mainnet Ready                                  │
 │  🌟 Innovation: Continuous                                │
 │  📈 Growth: Exponential                                   │
+│  🚀 DeFi: Building                                        │
 └─────────────────────────────────────────────────────────────┘
 ```
+
+### 🎯 **Current Focus Areas**
+
+- 🔥 **DeFi Platforms**: Building next-gen decentralized finance solutions
+- 🎨 **NFT Marketplaces**: Creating unique digital asset ecosystems  
+- 🏛️ **DAO Development**: Decentralized autonomous organization tools
+- ⚡ **Layer 2 Solutions**: Optimizing blockchain scalability
+- 🔐 **Smart Contract Auditing**: Ensuring security and reliability
 
 </div>
 
@@ -119,9 +168,9 @@ const ENVEXX = {
 
 <div align="center">
 
-### 💫 *"Code is poetry written in logic"*
+### 💫 *"Decentralizing the future, one smart contract at a time"*
 
-**Let's build something extraordinary together!**
+**Ready to build the next generation of Web3? Let's innovate together!**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ENVEXX&style=for-the-badge&color=blueviolet)
 
