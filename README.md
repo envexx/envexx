@@ -1,6 +1,6 @@
 <div align="center">
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com/svg?font=JetBrains+Mono&weight=700&size=45&color=4A90E2&center=true&vCenter=true&width=500&lines=ENVEXX" alt="ENVEXX">
+  ENVEXX
 </h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2500&pause=800&color=4A90E2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web3+Architect;Backend+Specialist" alt="Roles">
