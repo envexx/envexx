@@ -1,255 +1,46 @@
-<div align="center">
-<h1>
-  ENVEXX
-</h1>
+<h1 align="center">I run an Agent Company</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2500&pause=800&color=4A90E2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web3+Architect;Backend+Specialist" alt="Roles">
+  <b>Nugrah Salam Harahap</b> · Batam, Indonesia<br>
+  AI agents that do real business work — sales, lead generation, front desk, recruiting, inbox, operations.
 </p>
+
+---
+
+Most AI projects stop at the demo. Mine don't — I run my company with agents.
+
+I run **Core Solution** with a team of AI agents — my **Agent Company**: a manager plus divisions for product, marketing, sales, operations, finance, content, and research. They work the way a good team does: task contracts, evidence over claims, and human approval before anything public or paid. Nothing ships without verification.
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=3000&pause=1000&color=6B7280&center=true&vCenter=true&width=650&lines=Building+scalable+applications+with+modern+technologies;Passionate+about+Web3+platforms+and+blockchain+innovation;Crafting+digital+solutions+that+make+a+difference" alt="Description">
+  <img width="720" src="https://raw.githubusercontent.com/envexx/ai-sales-agent/main/docs/screenshots/overview.png" alt="ai-sales-agent — sales pipeline dashboard">
 </p>
-<br>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=&fontSize=0&animation=twinkling">
-</div>
 
-<div align="center">
+## The fleet
 
-## 💼 **Professional Overview**
+| System | What it does | Built with |
+|---|---|---|
+| **[ai-sales-agent](https://github.com/envexx/ai-sales-agent)** | WhatsApp sales agent on a 14-node LangGraph pipeline: brand-safe RAG, lead scoring, scheduling via MCP, human-like replies, real-time dashboard. | LangGraph · DeepSeek · pgvector · Next.js |
+| **[SignalDesk](https://github.com/envexx/signaldesk)** · [demo](https://signaldesk-steel.vercel.app) | Autonomous B2B lead enrichment: evidence-backed research, explainable ICP scoring, drafts that stop for human approval. | Next.js · Inngest · Postgres |
+| **[WellNest](https://github.com/envexx/ai-clinic)** · [demo](https://ai-clinic-sand.vercel.app) | AI clinic front desk: admin Q&A, booking flows, staff handoff — with a full staff dashboard. | Next.js · Prisma · pgvector · Gemini |
+| **[Switchboard](https://github.com/envexx/ai-business-inbox)** · [demo](https://business-inbox-ten.vercel.app) | AI business inbox: classify → policy → draft → act or hold. Risk tiers, approvals, full audit. | Next.js · Prisma · OpenAI |
+| **[Firstpass](https://github.com/envexx/ai-lead-automation)** · [demo](https://lead-automation-alpha.vercel.app) | Lead qualify → decide → act → verify → audit. Scoring lives in code; every run replayable. | Next.js · Prisma · OpenAI |
+| **Talenta** · [demo](https://ai-recruitmen.vercel.app) *(private repo)* | AI recruitment dashboard: flexible form builder, company knowledge, AI-assisted candidate scoring. | Next.js · Prisma |
 
-</div>
+## How it operates
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+- **Human gates by default** — sends, outreach, and anything public wait for approval; ad operations start paused.
+- **Evidence over claims** — verification passes, audit trails, measured results.
+- **Graceful degradation** — every AI path has a deterministic fallback; nothing breaks when a provider fails.
+- **Production habits** — TypeScript strict, tests + smoke + eval scripts, architecture documented in each README.
 
-### 🎯 **Current Focus**
-- 🔹 **DeFi Platform Development**
-- 🔹 **Smart Contract Architecture** 
-- 🔹 **NFT Marketplace Solutions**
-- 🔹 **Scalable Web Applications**
-- 🔹 **Mobile-First Development**
+## Stack
 
-</td>
-<td width="50%" valign="top">
+`TypeScript` · `Node.js` · `Python` · `Next.js` · `LangGraph` · `OpenAI / Gemini / DeepSeek` · `PostgreSQL + pgvector` · `Prisma` · `MCP` · `Docker` · `Ubuntu VPS`
 
-### 🏆 **Expertise Areas**
-- 🔸 **Frontend**: Next.js, React.js, TypeScript
-- 🔸 **Backend**: Node.js, Express.js, APIs
-- 🔸 **Mobile**: Flutter, Cross-platform
-- 🔸 **Web3**: Ethereum, Solidity, DApps
-- 🔸 **Database**: MongoDB, PostgreSQL
-
-</td>
-</tr>
-</table>
+<sub>Also built: agent-payment rails ([spend402](https://github.com/envexx/spend402) · [commit](https://github.com/envexx/commit)) · verifiable settlement ([Credo](https://github.com/envexx/credo-settlement-rwa)) · production n8n AI workflows ([n8n-automation-lab](https://github.com/envexx/n8n-automation-lab))</sub>
 
 ---
 
-<div align="center">
-
-## 🛠️ **Technology Stack**
-
-### **Frontend Development**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### **Backend Development**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-4A90E2?style=flat-square&logo=api&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-
-### **Database & Storage**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### **Mobile Development**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-### **Web3 & Blockchain**
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
-![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat-square&logo=metamask&logoColor=white)
-
-### **Tools & DevOps**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-## 📋 **Professional Profile**
-
-</div>
-
-```typescript
-interface DeveloperProfile {
-  name: string;
-  title: string;
-  specialization: string[];
-  currentProjects: string[];
-  techStack: {
-    frontend: string[];
-    backend: string[];
-    mobile: string[];
-    web3: string[];
-    database: string[];
-  };
-  philosophy: string;
-  availability: string;
-}
-
-const ENVEXX: DeveloperProfile = {
-  name: "ENVEXX",
-  title: "Full Stack Developer & Web3 Architect",
-  
-  specialization: [
-    "🔥 DeFi Platform Development",
-    "🎨 NFT Marketplace Creation",
-    "🏛️ DAO & Governance Systems", 
-    "⚡ Smart Contract Development",
-    "📱 Cross-platform Mobile Apps"
-  ],
-  
-  currentProjects: [
-    "Next.js E-commerce Platform",
-    "DeFi Staking Protocol",
-    "Flutter Crypto Wallet",
-    "NFT Trading Marketplace"
-  ],
-  
-  techStack: {
-    frontend: ["Next.js", "React.js", "TypeScript", "Tailwind CSS"],
-    backend: ["Node.js", "Express.js", "REST APIs", "GraphQL"],
-    mobile: ["Flutter", "Dart", "Cross-platform Development"],
-    web3: ["Ethereum", "Solidity", "Web3.js", "Smart Contracts"],
-    database: ["MongoDB", "PostgreSQL", "Redis"]
-  },
-  
-  philosophy: "Clean code, scalable architecture, user-centric design",
-  availability: "Open for collaboration & consulting"
-};
-```
-
----
-
-<div align="center">
-
-## 📊 **GitHub Analytics**
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ENVEXX&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4A90E2&icon_color=4A90E2&text_color=c9d1d9"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ENVEXX&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2f80ed&icon_color=2f80ed&text_color=333"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ENVEXX&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4A90E2&icon_color=4A90E2&text_color=c9d1d9" />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=ENVEXX&theme=dark&hide_border=true&background=0d1117&stroke=4A90E2&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=ENVEXX&theme=default&hide_border=true&background=ffffff&stroke=2f80ed&ring=2f80ed&fire=2f80ed&currStreakLabel=2f80ed"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ENVEXX&theme=dark&hide_border=true&background=0d1117&stroke=4A90E2&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2" />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ENVEXX&theme=dark&hide_border=true&bg_color=0d1117&title_color=4A90E2&text_color=c9d1d9&layout=compact"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ENVEXX&theme=default&hide_border=true&bg_color=ffffff&title_color=2f80ed&text_color=333&layout=compact"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENVEXX&theme=dark&hide_border=true&bg_color=0d1117&title_color=4A90E2&text_color=c9d1d9&layout=compact" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 **Featured Projects**
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔥 **Web3 Projects**
-- **DeFi Staking Platform**  
-  `Next.js` `Solidity` `Web3.js`
-  
-- **NFT Marketplace**  
-  `React` `IPFS` `Smart Contracts`
-  
-- **DAO Governance Tool**  
-  `TypeScript` `Ethereum` `Web3`
-
-</td>
-<td width="50%">
-
-### 💻 **Full Stack Projects**
-- **E-commerce Platform**  
-  `Next.js` `Node.js` `MongoDB`
-  
-- **Real-time Chat App**  
-  `Socket.io` `React` `Express`
-  
-- **Flutter Mobile App**  
-  `Flutter` `Dart` `Firebase`
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 🤝 **Let's Connect**
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ENVEXX)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/envexx)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/envexx)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://envexx.dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@envexx.dev)
-
-<br><br>
-
-**💡 Available for freelance projects, collaborations, and Web3 consultations**
-
-<img src="https://komarev.com/ghpvc/?username=ENVEXX&style=for-the-badge&color=4A90E2&labelColor=1a1a1a" />
-
-<br><br>
-
-*"Building the future of web, one line of code at a time"* 
-
-**⭐ Don't forget to star repositories you find interesting!**
-
-</div>
+<p align="center">
+  📫 <b>coresolution3@gmail.com</b> · <a href="https://becoder.xyz">becoder.xyz</a> · <a href="https://www.linkedin.com/in/nugrah-salam-16a408257">LinkedIn</a>
+</p>
